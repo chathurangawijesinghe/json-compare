@@ -1,0 +1,10 @@
+D:\Developments\C#\JsonCompare\JsonCompareUI\bin\Debug\JsonCompareUI.exe.config
+D:\Developments\C#\JsonCompare\JsonCompareUI\bin\Debug\JsonCompareUI.exe
+D:\Developments\C#\JsonCompare\JsonCompareUI\bin\Debug\JsonCompareUI.pdb
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.csproj.AssemblyReference.cache
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.Main.resources
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.Properties.Resources.resources
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.csproj.GenerateResource.cache
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.csproj.CoreCompileInputs.cache
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.exe
+D:\Developments\C#\JsonCompare\JsonCompareUI\obj\Debug\JsonCompareUI.pdb
